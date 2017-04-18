@@ -12,7 +12,6 @@
 #include <string>
 
 int main(int argc, const char * argv[]) {
-    
     std::ifstream input("test.txt");
     if (!input)
     {
